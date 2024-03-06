@@ -1,0 +1,11 @@
+
+@use '../custom' as *;
+@use '../components/mixins' as *;
+
+.navbar{
+    margin-left: 2rem;
+    margin-right: 2rem;
+}
+.ali {
+    font-size: 0.6rem;
+}

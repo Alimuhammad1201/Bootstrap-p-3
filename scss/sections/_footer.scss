@@ -1,0 +1,23 @@
+  
+
+@use '../custom' as *;
+
+.im {
+    width: 100%;
+    padding-top: 6rem;
+    filter: brightness(0.8);
+
+}
+
+.footer-logo {
+	top: 25%;
+	
+	margin-left: 1rem;
+	
+}
+
+
+
+.add, .ma, .info {
+	font-size: 3vh;
+}
